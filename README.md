@@ -6,7 +6,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
  To be added | To be added | To be added | To be added
 
-
+[![CI](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/CI.yml/badge.svg)](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/CI.yml)
 
 
 ## Folder Structure
