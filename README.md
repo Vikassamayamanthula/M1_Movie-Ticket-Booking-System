@@ -1,9 +1,5 @@
 # SDLC Activity Based Learning
 
-![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
-
-<!--
-Visit [Pages for Report -optional](using github.io option)
 
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
