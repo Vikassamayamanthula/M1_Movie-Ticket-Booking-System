@@ -12,6 +12,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![Build Linex](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/Linux.yml/badge.svg)](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/Linux.yml)
 
+[![Valgarid](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/Valgarid.yml/badge.svg)](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/Valgarid.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
