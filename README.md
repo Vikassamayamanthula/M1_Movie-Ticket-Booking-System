@@ -8,6 +8,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 [![CI](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/CI.yml/badge.svg)](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/CI.yml)
 
+[![Build Windows](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/Windows.yml/badge.svg)](https://github.com/Vikassamayamanthula/M1_Movie-Ticket-Booking-System/actions/workflows/Windows.yml)
 
 ## Folder Structure
 Folder             | Description
